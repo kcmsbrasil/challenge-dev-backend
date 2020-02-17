@@ -7,7 +7,7 @@ Nossa intenção é entender seu conhecimento técnico, para isso temos este des
 ## Orientações
 Cenário
 Uma grande rede varejista solicitou uma API RESTful altamente escalável para suportar inúmeras requisições quer permitam realizar a gestão dos produtos.
-Teremos que utilizar tecnologia XXX com a linguagem YYY
+Teremos que utilizar tecnologia .Net com a linguagem C#
 
 ### Desafio
 
