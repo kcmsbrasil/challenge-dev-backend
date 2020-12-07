@@ -33,7 +33,7 @@ A API deve:
 * Existem serviços gratuitos que hospedam databases NOSQL gratuitamente em espaço físico limitado, mas suficiente para o teste);
 
 ### O que deve ser entregue?
-* O código criado sem seu repositório (pessoal). 
+* O código criado em seu repositório (pessoal). 
 * Instruções para rodar a aplicação
 * O link de acesso ao repositório pode ser enviado para: talentos@kcms.com.br, informe seu nome completo por favor!
 
