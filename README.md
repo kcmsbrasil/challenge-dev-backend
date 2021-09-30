@@ -29,6 +29,9 @@ A API deve:
 
 ### Insights
 
+* Atenção na estrutura do projeto package/directory, encapsulamento e diretrizes de design;
+* Separe sua lógica de negócio da camada de HTTP;
+* Utilize IoC Container para utilização dos serviços no seu projeto;
 * Preferimos que utilize database NOSQL como MongoDB ou outro de sua preferência;
 * Existem serviços gratuitos que hospedam databases NOSQL gratuitamente em espaço físico limitado, mas suficiente para o teste);
 * Teste unitários são bem vindos mas são opcionais;
